@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Leb Lango Translator",
+  "description": "A real-time language translation app that translates text between English and the fictional 'Leb Lango' language using the Gemini API.",
+  "requestFramePermissions": []
+}
